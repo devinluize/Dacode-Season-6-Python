@@ -1,0 +1,23 @@
+# python itu adlaah bahasa pemrograman yang sekarang banyak dipakai
+# python itu bisa dibilang dia high  level programming language
+#bahasa pemrograman yang dekat dengan bahasa manusia
+
+# or and  || &&
+# python itu free
+#python itu multi platform
+1. bisa digunakan untuk untuk web, desktop, mobile app, algo, AI
+python bisa digunain juga buat robotic, machine learning, data science
+
+contoh kita mau print sesuatu
+
+print("hello world")
+framework -> itu kerangka kerja yang digunakan utnuk membangun aplikasi dengan cepat -> template
+c++
+#include <iosstream>
+int main(int argc, chat const* argv[]){
+std::cout<<"hello wokld" std:endl
+return 0;
+}
+
+frontend -> tampilan depan dari suatu aplikasi -> user interface
+backend -> dia codingan yang bekejar dalam rana server side -> logika
