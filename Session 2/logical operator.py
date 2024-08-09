@@ -5,8 +5,9 @@
 # 3. not
 #
 
-x = True
-y = False
-print(x and y)
-print(x or y)
-print(not x)
+garam = True #dibeli
+gula = False #engga
+
+print(garam and gula) # false
+print(garam or gula)  #true
+print(not garam)

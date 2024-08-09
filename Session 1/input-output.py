@@ -24,7 +24,7 @@ print("hello world")
 
 # jika x = 3 dan x+y = 6 maka berapa kah y
 nama = input("Masukan Nama Anda: ")
-semester =  input("Masukan semester Anda: ")
+semester = input("Masukan semester Anda: ")
 #nama = devin
 print("Nama = ", nama)
 print("Semester = ", semester)

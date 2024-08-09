@@ -5,7 +5,7 @@ print("data : ",data_integer,"bertipe data", type(data_integer))
 #kita ada tipe data float(decimal)
 data_float = 11.999999
 print("data : ",data_float,"bertipe data", type(data_float))
-#tipe data ketiga tipe data string
+#tipe data ketiga tipe data string -> kalimat
 data_string = "devin luize saan"
 print("data : ",data_string,"bertipe data", type(data_string))
 #boolean -> True or False
@@ -17,6 +17,9 @@ print("data : ",data_bool,"bertipe data", type(data_bool))
 # from ctypes import c_double
 # data_double = c_double(3.14)
 # print("data : ",data_double,"bertipe data", type(data_double))
+
+# from ctypes import c_int64
+# data_longlongint = c_int64(10000000000000000000000)
 import math
 #TYPE CAST
 #aku mau ngubah dari tipe data integer ke double
