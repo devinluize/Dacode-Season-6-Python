@@ -7,8 +7,13 @@ print(my_string)
 
 #angka
 angka = 123.123456789
+# hasil = "angka" + str(angka) + str(angka)+str(angka)+str(angka)+str(angka)+str(angka)+str(angka)
+# f -> string format
+# kita bisa langsung "concat langsung gabungin variabel ke streing dengan {}"
+# hasil = f"angka = {angka}"
 format_angka = f"angka = {angka}"
 print(format_angka)
+# f-> format
 
 #aku mau ambil 2 angka belakang coma
 format_angka = f"angka = {angka:.5f}" #artinya untuk pring 5 angka dibelakang coma f itu float
