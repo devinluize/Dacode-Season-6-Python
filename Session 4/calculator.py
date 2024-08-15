@@ -9,6 +9,7 @@
 # result = 3
 
 #buat calc operasi ( + ; - ; * ; /)
+
 result = 0
 operand1 = float(input("Enter your first operand : "))
 operator = input("Enter you operator [+,-,*,/] : ")
@@ -32,4 +33,4 @@ else:
         else:
             result = operand1 / operand2
     print(f"the result of {operand1} {operator} {operand2} : is {result}")
-
+    
