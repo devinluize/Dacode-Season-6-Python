@@ -1,0 +1,24 @@
+List -> buat simpen beberapa data
+
+List -> berurutan, bisa diganti, bisa duplicate
+
+
+membuat list [V]
+access list [V]
+add item (insert, append, extend, + operator) [V]
+delete item (remove, pop, clear) [V]
+iterate a list [V]
+list comprehension (short hand dari iterate list) [V]
+sort (reverse, using key) [V]
+
+
+Deskripsi job : 
+Permainan gunting btu kertas
+1. Kalian masukin data pake input ("gunting", "batu", "kertas")
+2. Komputer itu bakal ngerandom sebuah list yang isinya gunting batu kertas
+3. jawaban kita sama hasil computer itu bakal di compare
+4. comparenya itu sesuai aturan gunting batu kertas
+5. comparenya pake if else
+
+
+
