@@ -1,0 +1,33 @@
+Session 7 - SET, TUPLE, DICTIONARY
+-----------------------------------------------
+list -> berurutan, bisa d ganti ganti, duplikat
+tuple -> berurutan, gabsa d ganti (FINAL -> gabisa tambahin gabisa kurangin), duplikat
+set -> ga berurutan, gabsa d ganti (bisa d tambah bisa d kurang), gabisa duplikat
+dictionary -> berurutan, bisa d ganti ganti, gabisa duplikat
+
+list 
+- Copy [V]
+
+tuple 
+- Access [V]
+- Update [V]
+- unpacking [V]
+- join [V]
+- loop [V]
+
+set 
+- Access [V]
+- add [V]
+- remove [V]
+- join [V]
+- copy [V]
+
+dictionary
+- access [V]
+- update [V]
+- add [V]
+- remove [V]
+- copy [V]
+
+Loop dictionary
+
