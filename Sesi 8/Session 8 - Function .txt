@@ -1,0 +1,13 @@
+Session 8 - Function 
+---------------------------
+- Function => 
+tujuannya adalah untuk mengurangi redudansi code
+Kalau sekelompok code digunakan lebih dari sekali, biasanya akan dipack jadi sebuah function
+
+Bisa juga untuk mengelompokkan kode
+
+- argument [V]
+- keyword argument [V]
+- Default argument [V]
+- Global and local scope [V]
+- lambda function => shorthand dari sebuah function [V]
